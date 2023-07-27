@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 1937,
       "initialViewParameters": {
-        "pitch": 0,
         "yaw": 0,
+        "pitch": 0,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
@@ -174,11 +174,18 @@ var APP_DATA = {
       ],
       "faceSize": 1854,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": 1.1021492711137455,
+        "pitch": 0.3151440906422067,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 0.9205426804382153,
+          "pitch": 0.6242711037443538,
+          "rotation": 0,
+          "target": "15-nc_4"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -209,7 +216,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -1.112829631538638,
+          "pitch": 0.5391676100651708,
+          "rotation": 0,
+          "target": "15-nc_4"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -378,7 +392,20 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 1.385949882846532,
+          "pitch": 0.2774367518408152,
+          "rotation": 0,
+          "target": "8-nc_14"
+        },
+        {
+          "yaw": -2.4475673059526564,
+          "pitch": 0.4044042796369851,
+          "rotation": 0,
+          "target": "12-nc_6"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -499,8 +526,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.8464862273843323,
-          "pitch": 0.30232058549146146,
+          "yaw": 2.225811672917927,
+          "pitch": 0.3488428888852475,
           "rotation": 5.497787143782138,
           "target": "9-nc_15"
         },
@@ -625,8 +652,8 @@ var APP_DATA = {
           "target": "4-nc_10"
         },
         {
-          "yaw": -2.383635697914478,
-          "pitch": 0.4711321086476232,
+          "yaw": -2.4559094919270716,
+          "pitch": 0.45986825248379937,
           "rotation": 14.922565104551524,
           "target": "5-nc_11"
         },
